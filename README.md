@@ -8,7 +8,7 @@ AutoHotKey scripts to map H J K L to arrow keys when holding ⇪ Caps Lock
 
 `vim_escape_map.ahk` is the same but doesn't remap <kbd>Escape</kbd> to <kbd>Caps Lock</kbd>, so mappings work when holding <kbd>Escape</kbd>.
 
-This is useful if you want to use another app like SharpKeys to remap <kbd>Escape</kbd> to <kbd>Caps Lock</kbd> on a deeper OS level than AutoHotKey.
+This is useful if you want to use another app like [SharpKeys](https://github.com/randyrants/sharpkeys) to remap <kbd>Escape</kbd> to <kbd>Caps Lock</kbd> on a deeper OS level than AutoHotKey.
 
 ### Additional Mappings
 
