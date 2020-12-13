@@ -1,4 +1,3 @@
-; #NoTrayIcon
 SetCapsLockState, AlwaysOff
 
 #If GetKeyState("Escape", "P")

@@ -1,4 +1,3 @@
-#NoTrayIcon
 SetCapsLockState, AlwaysOff
 
 #If GetKeyState("CapsLock", "P")
@@ -6,6 +5,8 @@ h::Left
 j::Down
 k::Up
 l::Right
+f::PgDn
+b::PgUp
 #If
 
 *CapsLock::
